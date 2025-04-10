@@ -1,10 +1,10 @@
-package com.mayank.product.controller;
+package com.ojas.product.controller;
 
-import com.mayank.product.dto.Category;
-import com.mayank.product.dto.CustomResponse;
-import com.mayank.product.dto.Product;
-import com.mayank.product.service.CategoryService;
-import com.mayank.product.service.ProductService;
+import com.ojas.product.dto.Category;
+import com.ojas.product.dto.CustomResponse;
+import com.ojas.product.dto.Product;
+import com.ojas.product.service.CategoryService;
+import com.ojas.product.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

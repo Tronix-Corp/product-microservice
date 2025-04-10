@@ -1,4 +1,4 @@
-package com.mayank.product.dto;
+package com.ojas.product.dto;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

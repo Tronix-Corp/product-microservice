@@ -1,4 +1,4 @@
-package com.mayank.product.dto;
+package com.ojas.product.dto;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

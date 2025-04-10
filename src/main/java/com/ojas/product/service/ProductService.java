@@ -1,6 +1,6 @@
-package com.mayank.product.service;
+package com.ojas.product.service;
 
-import com.mayank.product.dto.Product;
+import com.ojas.product.dto.Product;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;

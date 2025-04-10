@@ -1,9 +1,9 @@
-package com.mayank.product.controller;
+package com.ojas.product.controller;
 
-import com.mayank.product.dto.Category;
-import com.mayank.product.dto.CustomResponse;
-import com.mayank.product.exception.ResourceNotFoundException;
-import com.mayank.product.service.CategoryService;
+import com.ojas.product.dto.Category;
+import com.ojas.product.dto.CustomResponse;
+import com.ojas.product.exception.ResourceNotFoundException;
+import com.ojas.product.service.CategoryService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,9 +1,9 @@
-package com.mayank.product.service;
+package com.ojas.product.service;
 
-import com.mayank.product.dto.Category;
-import com.mayank.product.dto.Product;
-import com.mayank.product.exception.ResourceNotFoundException;
-import com.mayank.product.repository.ProductRepository;
+import com.ojas.product.dto.Category;
+import com.ojas.product.dto.Product;
+import com.ojas.product.exception.ResourceNotFoundException;
+import com.ojas.product.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

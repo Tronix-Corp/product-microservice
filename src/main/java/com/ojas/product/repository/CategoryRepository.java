@@ -1,6 +1,6 @@
-package com.mayank.product.repository;
+package com.ojas.product.repository;
 
-import com.mayank.product.dto.Category;
+import com.ojas.product.dto.Category;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;

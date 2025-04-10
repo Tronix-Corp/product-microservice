@@ -1,8 +1,8 @@
-package com.mayank.product.service;
+package com.ojas.product.service;
 
-import com.mayank.product.dto.Category;
-import com.mayank.product.exception.ResourceNotFoundException;
-import com.mayank.product.repository.CategoryRepository;
+import com.ojas.product.dto.Category;
+import com.ojas.product.exception.ResourceNotFoundException;
+import com.ojas.product.repository.CategoryRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

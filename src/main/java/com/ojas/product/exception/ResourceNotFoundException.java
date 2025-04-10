@@ -1,4 +1,4 @@
-package com.mayank.product.exception;
+package com.ojas.product.exception;
 
 public class ResourceNotFoundException extends Exception {
     public ResourceNotFoundException() {
